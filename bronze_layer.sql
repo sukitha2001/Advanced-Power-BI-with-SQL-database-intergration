@@ -11,7 +11,7 @@ CREATE TABLE bronze_departments (
     bronze_departments_sk INT AUTO_INCREMENT PRIMARY KEY,
     dept_id VARCHAR(255),
     dept_name VARCHAR(255),
-    location VARCHAR(255),
+    dep_location VARCHAR(255),
     manager_id VARCHAR(255),
     created_date VARCHAR(255),
     dep_status VARCHAR(255),
