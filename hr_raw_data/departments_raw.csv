@@ -1,0 +1,14 @@
+dept_id,dept_name,location,manager_id,created_date,status,headcount_budget,cost_center
+D001,Engineering,Colombo,EMP3286,2018/04/05,,,CC130
+D002,Human Resource,Colombo,,2012/03/25,,279,CC928
+D003,sales,Kandy,EMP3547,05-31-2012,Active,,
+D004,Mktg,Colombo,,25 Feb 2015,Active,474,CC982
+D005,Fiance,Galle,,2012-07-22,active,244,CC750
+D006,Operatons,Kandy,EMP5374,2017/11/14,Active,137,CC350
+D007,CS,Colombo,EMP4598,2017-09-05,active,462,CC374
+D008,Info Tech,Colombo,EMP9179,2014/06/09,Inactive,121,CC674
+D009,Law,Colombo,EMP6930,17/06/2012,,436,
+D010,R&D,Gampaha,EMP2040,26 Apr 2014,,333,CC111
+D011,Administration,Colombo,EMP5371,2018-08-15,ACTIVE,282,
+D012,procurement,Kandy,EMP9317,03-12-2011,,128,CC265
+D003,sales,Kandy,EMP3547,05-31-2012,Active,,
